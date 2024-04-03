@@ -41,6 +41,9 @@
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
 </div>
 
+<br>
+<br>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/HiteshGupta20)](https://leetcode.com/HiteshGupta20)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitg010&show_icons=true&locale=en&layout=compact" alt="hitg010" /></p>
