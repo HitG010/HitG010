@@ -22,7 +22,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,express,mysql,nodejs,mongodb,matlab,py,tensorflow,dart,flutter,git,gcp)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,express,mysql,nodejs,mongodb,matlab,py,tensorflow,dart,flutter,git,gcp)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/HiteshGupta20)](https://leetcode.com/HiteshGupta20)
 
