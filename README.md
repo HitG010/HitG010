@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **guptahitesh201105@gmail.com**
 
-- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1VcinH4F_Sq8ZXxoiX5kkHlmDhOUkDkbt/view?usp=sharing](https://drive.google.com/file/d/169h_tIitQoA65ca9Xc-YrKGVqTp83teQ/view?usp=sharing))
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/169h_tIitQoA65ca9Xc-YrKGVqTp83teQ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am friendly**
 
