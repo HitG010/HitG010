@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hitesh Gupta</h1>
 <h3 align="center">An enthusiastic engineering student having keen interests in Tech. 🔥🔥🔥</h3>
 
-- 🔭 I’m currently working on [QuantaMind](https://github.com/HitG010/QuantaMind)
+- 🔭 I’m currently working on a secret project 🤫
 
-- 🌱 I’m currently learning **MERN Stack, AI/ML**
+- 🌱 I’m currently learning **Gen-AI**
 
-- 💬 Ask me about **DSA, Express, JS, Node, EJS, MongoDB**
+- 💬 Ask me about **DSA, AI, CV, Transformers, WebDev**
 
 - 📫 How to reach me **guptahitesh201105@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1VcinH4F_Sq8ZXxoiX5kkHlmDhOUkDkbt/view?usp=sharing)
+- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1VcinH4F_Sq8ZXxoiX5kkHlmDhOUkDkbt/view?usp=sharing](https://drive.google.com/file/d/169h_tIitQoA65ca9Xc-YrKGVqTp83teQ/view?usp=sharing))
 
 - ⚡ Fun fact **I think I am friendly**
 
