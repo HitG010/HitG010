@@ -1,53 +1,44 @@
-<h1 align="center">Hi 👋, I'm Hitesh Gupta</h1>
-<h3 align="center">An enthusiastic engineering student having keen interests in Tech. 🔥🔥🔥</h3>
+![Intro_Banner](/kb_linkedinbanner.png)
 
-- 🔭 I’m currently working on a secret project 🤫
+Hi 👋 I'm Hitesh Gupta
+--------------------------
+### About Me
 
-- 🌱 I’m currently learning **Gen-AI**
+- 🎓 I'm a passionate Mathematics and Computing undergrad actively exploring the frontiers of **AI/ML**, **DSA/CP**, and **Full Stack Development**.
+- 🛠️ Skilled in **Advanced AI/ML**, **Scalable Full Stack Web Developement**, **Competitive Programming** and much more..
+- 🏆 **Winner** of **3+** National & International Hackathons.
+- 👨‍💻 **Guardian (2242 rating)** @ LeetCode; **Expert (1736)** @ Codeforces
+- 📄 Published researcher: Published research paper in Springer's Signal, Image & Video Processing Journal (SIViP 2025) - <a href="https://link.springer.com/article/10.1007/s11760-025-04183-8">_"HyperSwin: preventing deepfake proliferation with swin-efficient fusion in a hyperledger ecosystem"_.</a>
 
-- 💬 Ask me about **DSA, AI, CV, Transformers, WebDev**
+Know more about me here (`Portfolio Website`): <a href="https://hiteshgupta.tech">https://hiteshgupta.tech</a>
 
-- 📫 How to reach me **guptahitesh201105@gmail.com**
+### Let's Connect!
+<div align="center">
+<a href="https://github.com/HitG010" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/hiteshgupta201105" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://leetcode.com/u/HiteshGupta20" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-black.svg?&style=for-the-badge&logo=leetcode alt=LeetCode style="margin-bottom: 5px;" />
+</a>  
+<a href="https://codeforces.com/profile/Hitesh10" target="_blank">
+<img src=https://img.shields.io/badge/Codeforces-black.svg?&style=for-the-badge&logo=codeforces alt=Codeforces style="margin-bottom: 5px;" />
+</a>  
+<a href="https://x.com/HiteshGupta2005" target="_blank">
+<img src=https://img.shields.io/badge/twitter-black.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div> 
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/169h_tIitQoA65ca9Xc-YrKGVqTp83teQ/view?usp=sharing)
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![Tensorflow](https://img.shields.io/badge/pytorch-purple.svg?&style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![Pytorch Geometric](https://img.shields.io/badge/pyg-orange.svg?&style=for-the-badge&logo=pyg&logoColor=3C2179) ![Scikit-learn](https://img.shields.io/badge/scikitlearn-blue.svg?&style=for-the-badge&logo=scikitlearn&logoColor=F7931E) ![NumPy](https://img.shields.io/badge/numpy-yellow.svg?&style=for-the-badge&logo=numpy&logoColor=013243) ![Jupyter](https://img.shields.io/badge/jupyter-grey.svg?&style=for-the-badge&logo=jupyter&logoColor=F37626) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-blue?logo=prisma&style=for-the-badge)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=hitg010&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hitg010&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hitg010&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- ⚡ Fun fact **I think I am friendly**
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hiteshgupta201105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiteshgupta201105/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/hiteshgupta20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hiteshgupta20/" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<div>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
-</div>
-
-<br>
-<br>
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/HiteshGupta20)](https://leetcode.com/HiteshGupta20)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitg010&show_icons=true&locale=en&layout=compact" alt="hitg010" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitg010&show_icons=true&locale=en" alt="hitg010" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitg010&" alt="hitg010" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitg010&label=Profile%20views&color=0e75b6&style=flat" alt="hitg010" /> </p>
