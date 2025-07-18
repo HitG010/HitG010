@@ -1,4 +1,4 @@
-![Intro_Banner](/kb_linkedinbanner.png)
+![Intro_Banner](/hitesh_banner_linkedin.jpg)
 
 Hi 👋 I'm Hitesh Gupta
 --------------------------
